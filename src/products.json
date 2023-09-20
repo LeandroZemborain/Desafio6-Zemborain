@@ -1,0 +1,82 @@
+[
+    {
+        "title": "producto 1",
+        "description": "Desc prod1",
+        "price": 100,
+        "thumbnail": "nada",
+        "code": "prod1",
+        "stock": 10,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 2",
+        "description": "Desc prod2",
+        "price": 200,
+        "thumbnail": "nada",
+        "code": "prod2",
+        "stock": 20,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 3",
+        "description": "Desc prod3",
+        "price": 300,
+        "thumbnail": "nada",
+        "code": "prod3",
+        "stock": 30,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 4",
+        "description": "Desc prod4",
+        "price": 400,
+        "thumbnail": "nada",
+        "code": "prod4",
+        "stock": 40,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 5",
+        "description": "Desc prod5",
+        "price": 500,
+        "thumbnail": "nada",
+        "code": "prod5",
+        "stock": 10,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 6",
+        "description": "Desc prod6",
+        "price": 600,
+        "thumbnail": "nada",
+        "code": "prod6",
+        "stock": 20,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 7",
+        "description": "Desc prod7",
+        "price": 700,
+        "thumbnail": "nada",
+        "code": "prod7",
+        "stock": 30,
+        "category": "cat",
+        "status": true
+    },
+    {
+        "title": "producto 8",
+        "description": "Desc prod8",
+        "price": 800,
+        "thumbnail": "nada",
+        "code": "prod8",
+        "stock": 40,
+        "category": "cat",
+        "status": true
+    }
+]
